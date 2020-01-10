@@ -6,7 +6,7 @@
 
 
 
-namespace AIRFlow.OMETiff
+namespace OMETiff
 {
     /// <remarks>
     /// Generated code to serialize image metadata into Open Microscopy's OME-XML format.
