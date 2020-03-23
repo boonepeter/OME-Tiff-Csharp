@@ -37,7 +37,6 @@ public void ReadMetadata(string filename)
         if (items[i].GetType() == typeof(Image))
         {
             // process Image type  
-		}
 	}
 }
 ```
