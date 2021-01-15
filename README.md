@@ -4,6 +4,8 @@ Helper class for serializing image metadata into Open Microscopy's OME-XML Tiff 
 
 This class is auto generated from the most recent [OME-TIFF schema](https://www.openmicroscopy.org/Schemas/OME/index.html).
 
+The schema used can also be found in [Schema](Schema/).
+
 Here is an example using [Bitmiracles's LibTiff.NET](https://bitmiracle.com/libtiff/) to open the image:
 
 ```csharp
